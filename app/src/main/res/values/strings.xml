@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyInfo</string>
+    <string name="name">Name:</string>
+    <string name="location">Location:</string>
+    <string name="hobbies">Hobbies:</string>
+    <string name="education">Education:</string>
+</resources>
